@@ -3,6 +3,7 @@ from OpenGL.GLU import *
 from OpenGL.GLUT import *
 import math
 import random
+#Bullet-Frenzy by Monowar Husain [22301098]
 
 # Global Game State
 player_pos = [0.0, 1.0, 0.0]
