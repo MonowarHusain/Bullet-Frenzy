@@ -70,7 +70,7 @@ This project is part of a series of lab-based assignments in **CSE423: Computer 
 
 ### 📂 Related Assignments
 
-- 🔢 [Assignment 01: 2D Transformations & Clipping](https://github.com/yourusername/assignment01-2d-graphics) [Not added yet]
+- 🔢 [Assignment 01: 2D Transformations & Clipping](https://github.com/MonowarHusain/CSE423/tree/main/LAB/LAB1)
 - 🔢 [Assignment 02: Catch-the-Diamond](https://github.com/MonowarHusain/Catch-the-Diamond)
 - 🎮 Assignment 03: Bullet Frenzy 3D (this project)
 
